@@ -13,12 +13,12 @@ class Program
         {
             Console.WriteLine("Pozitif sayı");
         }
-        else if (sayi < 0)
+        else if (sayi < 0)   // Sayı negtifse
         {
             Console.WriteLine("Negatif sayı");
         }
         else
-        {
+      {
             Console.WriteLine("Sayı sıfırdır");
         }
     }
