@@ -17,7 +17,7 @@ class Program
         {
             Console.WriteLine("Negatif sayı");
         }
-        else
+        else   // SAyı sıfırsa
       {
             Console.WriteLine("Sayı sıfırdır");
         }
